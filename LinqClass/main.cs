@@ -1,6 +1,6 @@
 ﻿namespace LinqClass
 {
-    public class Program
+    public class main
     {
         static void Main(string[] args)
         {

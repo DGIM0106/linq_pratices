@@ -2,7 +2,7 @@
 using System.Security.Cryptography;
 namespace ConsoleApp1
 {
-    internal class Program
+    internal class main
     {
         static void Main(string[] args)
         {
