@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ConsoleApp1/BasicoFiltro.csproj" />
+  <Project Path="FinalLinq/FinalLinq.csproj" />
   <Project Path="LinqClass/AvanzadoFiltro.csproj" />
   <Project Path="OperacionesDeAgregacion/OperacionesDeAgregacion.csproj" />
 </Solution>
