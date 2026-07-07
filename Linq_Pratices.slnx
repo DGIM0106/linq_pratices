@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleApp1/BasicoFiltro.csproj" />
+  <Project Path="LinqClass/AvanzadoFiltro.csproj" />
+</Solution>
