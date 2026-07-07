@@ -22,6 +22,17 @@ namespace OperacionesDeAgregacion
             //promedio de la propiedad sueldo por area especifica
             var filtromarketing = listaEmpleado.Where(n => n.Departamento == "Marketing").Average(n => n.Sueldo);
             Console.WriteLine(filtromarketing);
+
+            //agrupar por grupo
+            var agrupacion = listaEmpleado.GroupBy(e => e.Departamento);
+            foreach(var i in agrupacion)
+            {
+                foreach(var o in i)
+                {
+                    Console.WriteLine(o.Nombre + " " +o.Departamento);
+                }
+                Console.WriteLine("********");
+            }
         }
     }
 }
