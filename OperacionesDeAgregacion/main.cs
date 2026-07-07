@@ -25,11 +25,11 @@ namespace OperacionesDeAgregacion
 
             //agrupar por grupo
             var agrupacion = listaEmpleado.GroupBy(e => e.Departamento);
-            foreach(var i in agrupacion)
+            foreach(var cajon in agrupacion)
             {
-                foreach(var o in i)
+                foreach(var item in cajon)
                 {
-                    Console.WriteLine(o.Nombre + " " +o.Departamento);
+                    Console.WriteLine(item.Nombre + " " +item.Departamento);
                 }
                 Console.WriteLine("********");
             }
