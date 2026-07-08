@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="ConsoleApp1/BasicoFiltro.csproj" />
-  <Project Path="FinalLinq/FinalLinq.csproj" />
+  <Project Path="FinalLinq/FinalLinq1.csproj" />
   <Project Path="LinqClass/AvanzadoFiltro.csproj" />
   <Project Path="OperacionesDeAgregacion/OperacionesDeAgregacion.csproj" />
+  <Project Path="Paginacion/Paginacion.csproj" Id="28e7ac3a-f7a5-4119-97d1-c1812f24899f" />
 </Solution>
