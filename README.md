@@ -1,27 +1,29 @@
-\# Linq Practices
+# LINQ Practices
 
+> A collection of LINQ practice exercises focused on learning how to use LINQ and lambda expressions to write cleaner, more concise, and less repetitive C# code. These practices demonstrate how LINQ provides powerful tools for querying and working with different types of data.
 
+## 🛠️ Technologies
 
-> Use the Linq and lambda expresion, because is more easy and less repetitive code. these tecnology give more tools to search information in the diferent kinds of files
+- C# / .NET 10
+- LINQ
 
+## ⚙️ How to Run the Project
 
-\## 🛠️ Tecnologías
+To run this project locally, follow these steps:
 
-\* C# / .NET 10
+1. Clone the repository:
 
-\* Linq
+   ```bash
+   git clone https://github.com/DGIM0106/linq_pratices.git
+   ```
 
+2. Open the cloned repository in Visual Studio.
 
+3. Select the project you want to run.
 
-\## ⚙️ Cómo Ejecutar el Proyecto
+4. Build the solution to restore the required project files.
 
-Para correr este proyecto de forma local, sigue estos pasos:
+5. Run the project by pressing **F5** or **Ctrl + F5**.
 
-
-
-1\. \*\*Clona el repositorio:\*\*
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/DGIM0106/linq_pratices.git](https://github.com/DGIM0106/linq_pratices.git)
+Each project contains different LINQ practice examples that you can explore, modify, and execute to better understand how LINQ and lambda expressions work in C#.
 
